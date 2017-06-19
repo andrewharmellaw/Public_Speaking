@@ -10,7 +10,7 @@ How to contribute to this repository:
 
 This is the most common form of contribution. You've found (or written! self-promotion allowed!) a public speaking resource which is not yet represented in the collection and you wish to add it. Thank you!
 
-We follow the standard GitHub [pull request process](https://help.github.com/articles/creating-a-pull-request/). Please send a pull request (aka PR) with your contribution. We will then review it and either merge directly or ask you for modifications before merging.
+We follow the standard GitHub [pull request process](https://help.github.com/articles/creating-a-pull-request/). Please send a pull request (aka PR) with your contribution. We will then review it and either merge directly or ask you for modifications before merging. 
 
 Once in a great while we'll have to close the PR without merging it. This typically happens when the PR submits duplicate information or information which is not really applicable to this project. We'll always add a note to the PR explaining why we chose to close it without merging. It's never anything personal; the PR just wasn't a good fit. Please continue contributing. We're grateful for it.
 
