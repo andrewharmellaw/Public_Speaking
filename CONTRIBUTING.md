@@ -4,7 +4,7 @@ Hello! Thank you for wanting to contribute to this project! We're grateful for o
 
 All contributors agree to abide by the [Code of Conduct](./CODEOFCONDUCT.md).
 
-How to contribute to this repository:
+How to contribute to this repository: 
 
 ## Submit a link
 
